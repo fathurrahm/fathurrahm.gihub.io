@@ -1,0 +1,21 @@
+html {
+  font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "Lato", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+
+
+h1 {
+    font-size: 90px;
+    text-align: center;
+  }
+
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
